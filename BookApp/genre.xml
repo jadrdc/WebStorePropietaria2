@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Genres>
+  <Genre>
+    <id>9</id>
+    <Description>Drama</Description>
+  </Genre>
+  <Genre>
+    <id>604366411</id>
+    <Description>Terror</Description>
+  </Genre>
+  <Genre>
+    <id>954660661</id>
+    <Description>Comedia</Description>
+  </Genre>
+</Genres>
